@@ -23,7 +23,7 @@ export default function schedule() {
                 2022.10.23(Sun)
             </h1>
             <div className="mx-auto p-2 text-center">
-                <Image src="/liveImage2.jpg" width={448} height={252} className="z-20 mx-auto" alt=""/>
+                <img src="/liveImage2.jpg" width={448} height={252} className="z-20 mx-auto" alt=""/>
             </div>             
             <div className=" text-gray-100 text-2xl text-center">
                 <p className="pb-6">please wait for a while ...</p>
@@ -38,10 +38,10 @@ export default function schedule() {
                     2022.10.08(Sat)
                 </h1>
                 <div className="hidden md:inline-block float-left mx-auto p-2">
-                    <Image src="/20221008.jpg" width={450} height={550} className="z-20" alt=""/>
+                    <img src="/20221008.jpg" width={450} height={550} className="z-20" alt=""/>
                 </div>
                 <div className="md:hidden p-2 w-full text-center">
-                    <Image src="20221008.jpg" width={450} height={550} className="z-20 mx-auto" alt=""/>
+                    <img src="/20221008.jpg" width={450} height={550} className="z-20 mx-auto" alt=""/>
                 </div>
                 <div className=" text-gray-100 text-2xl text-center">
                     <p className="py-12">@下北沢DaisyBar pre.</p>
@@ -69,10 +69,10 @@ export default function schedule() {
                     2022.8.20(Sat)
                 </h1>
                 <div className="hidden md:inline-block float-left mx-auto p-2">
-                    <Image src="/20220820.jpg" width={450} height={550} className="z-20" alt=""/>
+                    <img src="/20220820.jpg" width={450} height={550} className="z-20" alt=""/>
                 </div>
                 <div className="md:hidden p-2 w-full text-center">
-                    <Image src="/20220820.jpg" width={450} height={550} className="z-20 mx-auto" alt=""/>
+                    <img src="/20220820.jpg" width={450} height={550} className="z-20 mx-auto" alt=""/>
                 </div>
                 <div className=" text-gray-100 text-2xl text-center">
                     <p className="py-12">@下北沢MOSAiC pre.</p>
