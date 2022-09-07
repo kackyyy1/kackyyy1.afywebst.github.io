@@ -18,10 +18,10 @@ export default function discography() {
         <div className="max-w-screen-xl text-gray-100 bg-gray-900  md:float-none rounded-xl relative">
           <p className=" text-gray-100 text-2xl p-6 text-center">3rd Single 「蜃気楼」</p>
           <div className="hidden md:inline-block float-left mx-auto p-2 ">
-            <img src="3rdSingle.jpg" width={450} height={450} objectFit="fill"  alt=""/>
+            <img src="/3rdSingle.jpg" width={450} height={450} objectFit="fill"  alt=""/>
           </div>
           <div className="md:hidden p-2 w-full text-center">
-            <img src="3rdSingle.jpg" width={450} height={450} objectFit="contain" alt="" className="mx-auto"/>
+            <img src="/3rdSingle.jpg" width={450} height={450} objectFit="contain" alt="" className="mx-auto"/>
           </div>
           <div className=" text-gray-100 text-2xl text-center">
             <h1 className='mx-auto my-6'>2022.06.18 Digital Release</h1>
@@ -45,10 +45,10 @@ export default function discography() {
         <div className="max-w-screen-xl text-gray-100 bg-gray-900  md:float-none rounded-xl">
           <p className=" text-gray-100 text-2xl p-4 text-center">2nd Single 「イデアの夏」</p>
           <div className="hidden md:inline-block float-left mx-auto p-2 ">
-          <img src="2ndSingle.jpg" width={450} height={450} objectFit="fill" alt=""/>
+          <img src="/2ndSingle.jpg" width={450} height={450} objectFit="fill" alt=""/>
           </div>
           <div className="md:hidden p-2 w-full text-center">
-            <img src="2ndSingle.jpg" width={450} height={450} layout="" objectFit="cover" alt="" className="mx-auto"/>
+            <img src="/2ndSingle.jpg" width={450} height={450} layout="" objectFit="cover" alt="" className="mx-auto"/>
           </div>
           <div className=" text-gray-100 text-2xl text-center">
             <p className='mx-auto my-6' >2022.05.14 Digital Release</p>
@@ -73,10 +73,10 @@ export default function discography() {
         <div className="max-w-screen-xl text-gray-100 bg-gray-900  md:float-none rounded-xl">
           <p className=" text-gray-100 text-2xl p-4 text-center">1st Single 「frail」</p>
           <div className="hidden md:inline-block float-left mx-auto p-2 ">
-            <img src="1stSingle.jpg" width={450} height={450} objectFit="fill" alt=""/>
+            <img src="/1stSingle.jpg" width={450} height={450} objectFit="fill" alt=""/>
           </div>
           <div className="md:hidden p-2 w-full text-center">
-            <img src="1stSingle.jpg" width={450} height={450} layout="" objectFit="cover" alt="" className="mx-auto"/>
+            <img src="/1stSingle.jpg" width={450} height={450} layout="" objectFit="cover" alt="" className="mx-auto"/>
           </div>
           <div className=" text-gray-100 text-2xl text-center">
             <p className='mx-auto my-6'>2021.01.09 Digital Release</p>
