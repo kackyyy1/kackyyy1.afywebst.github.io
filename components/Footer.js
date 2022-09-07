@@ -4,11 +4,11 @@ import Link from 'next/link';
 export default function Footer() {
 
   const data = [
-    {name:"twitter", route:"twitter.png", url:"https://twitter.com/aifuyou_band"},
-    {name:"instagram", route:"instagram.png", url:"https://www.instagram.com/aifuyou_official/"},
-    {name:"youtube", route:"youtube.png", url:"https://www.youtube.com/channel/UCk1KR3zNDfcmNO8bACgi5fQ"},
-    {name:"apple", route:"apple-music.png", url:"https://music.apple.com/jp/artist/aifuyou/1547394877"},
-    {name:"spotify", route:"spotify.png", url:"https://open.spotify.com/artist/4vgtX7t6sWR7xym4onhLBg"},
+    {name:"twitter", route:"/twitter.png", url:"https://twitter.com/aifuyou_band"},
+    {name:"instagram", route:"/instagram.png", url:"https://www.instagram.com/aifuyou_official/"},
+    {name:"youtube", route:"/youtube.png", url:"https://www.youtube.com/channel/UCk1KR3zNDfcmNO8bACgi5fQ"},
+    {name:"apple", route:"/apple-music.png", url:"https://music.apple.com/jp/artist/aifuyou/1547394877"},
+    {name:"spotify", route:"/spotify.png", url:"https://open.spotify.com/artist/4vgtX7t6sWR7xym4onhLBg"},
   ]
   
     return (
