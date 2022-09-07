@@ -12,7 +12,7 @@ export default function biography() {
         <h1>- Biography -</h1>
       </div>
       <div className="pt-6 pb-6 max-w-4xl mx-auto">
-        <img src="liveImage.jpg" width="900" height="300" layout="responsive" objectFit="contain" alt="" className="mx-auto"/>
+        <img src="/liveImage.jpg" width="900" height="300" layout="responsive" objectFit="contain" alt="" className="mx-auto"/>
       </div>
 
       <div className="mx-auto text-left p-6 text-gray-100 bg-gray-900 shadow-outline max-w-4xl rounded-2xl">
@@ -34,12 +34,12 @@ export default function biography() {
       </div>
       
         <div className="p-6 text-center justify-center items-center mx-auto ">
-          <img src="hatamasuImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
+          <img src="/hatamasuImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
           <p className=" text-gray-100 text-2xl">Vocal：hatamasu</p>
         </div>
 
         <div className="p-6 text-center justify-center items-center">
-          <img src="hanaImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
+          <img src="/hanaImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
           <p className=" text-gray-100 text-2xl">Guitar：hanaizumi</p>
           <p className=" text-gray-100 text-2xl">Twitter：
             <Link href="https://twitter.com/izumi_aifyu">
@@ -49,7 +49,7 @@ export default function biography() {
         </div>
 
         <div className="p-6 text-center justify-center items-center">
-          <img src="kakiImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
+          <img src="/kakiImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
           <p className=" text-gray-100 text-2xl">Guitar：kaki</p>
           <p className=" text-gray-100 text-2xl">Twitter：
             <Link href="https://twitter.com/kaki_afy">
@@ -59,7 +59,7 @@ export default function biography() {
         </div>
 
         <div className="p-6 text-center justify-center items-center">
-          <img src="takaraImage2.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
+          <img src="/takaraImage2.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
           <p className=" text-gray-100 text-2xl">Bass：takara</p>
           <p className=" text-gray-100 text-2xl">Twitter：
             <Link href="https://twitter.com/takarabassrain">
@@ -69,7 +69,7 @@ export default function biography() {
         </div>
 
         <div className="p-6 text-center justify-center items-center">
-          <img src="gayaImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
+          <img src="/gayaImage.jpg" width={500} height={300} objectFit="fill" className='rounded-2xl mx-auto' alt=""/>
           <p className=" text-gray-100 text-2xl">Drums：gaya</p>
         </div>
 

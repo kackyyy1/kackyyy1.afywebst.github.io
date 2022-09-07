@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import bgImage from '../components/bgImage'
 
 export default function home() {
