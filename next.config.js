@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: process.env.GITHUB_ACTIONS && "/kackyyy1.afywebsite.github.io",
+  basePath: process.env.GITHUB_ACTIONS && "/kackyyy1.afywebst.github.io",
   trailingSlash: true, 
   experimental: {
     images: {
